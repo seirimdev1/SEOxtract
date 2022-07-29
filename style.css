@@ -1,0 +1,45 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+a {text-decoration: none;}
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+textarea {
+    font-size:20px;
+    width:99.7%;
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+a {text-decoration: none;}
