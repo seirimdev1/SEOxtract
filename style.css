@@ -29,7 +29,6 @@ textarea {
     width:99.7%;
 }
 
-body {font-family: Arial, Helvetica, sans-serif;}
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -41,5 +40,3 @@ td, th {
   text-align: left;
   padding: 8px;
 }
-
-a {text-decoration: none;}
