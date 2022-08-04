@@ -37,7 +37,7 @@ $(document).ready(function() {
         <?php
         ini_set('max_execution_time', '-1'); // unlimited
         // Web page URL 
-        $urls = explode( "\r\n", $_POST['psw'] );
+        $urls = explode("\r\n", $_POST['psw']);
 
         foreach ($urls as $url){
             // Extract HTML using curl 
